@@ -1,0 +1,1 @@
+Credenciais informadas: admin/password. URL login: http://192.168.0.15/dvwa/login.php. URL pós-login informada: http://192.168.0.15/dvwa/. Não foi fornecida captura ou log que confirme sessão autenticada.

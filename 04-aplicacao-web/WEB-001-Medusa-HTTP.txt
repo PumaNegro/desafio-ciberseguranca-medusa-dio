@@ -1,0 +1,1 @@
+Comando Medusa HTTP informado para /dvwa/login.php. Saída do comando não fornecida; sucesso de autenticação não comprovado.
