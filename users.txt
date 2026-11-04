@@ -1,0 +1,10 @@
+admin
+password
+root
+nroot
+msfadmin
+nmsfadmin
+123456
+passwd
+admins
+admin$

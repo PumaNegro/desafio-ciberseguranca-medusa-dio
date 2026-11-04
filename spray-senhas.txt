@@ -1,0 +1,9 @@
+ngoot
+msfadmin
+billg@te
+password
+123
+123456
+admin
+test123
+passwd
