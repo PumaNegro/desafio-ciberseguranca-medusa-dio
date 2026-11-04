@@ -1,0 +1,2 @@
+Comando: nmap -sn 192.168.0.15/24
+Hosts apresentados: 192.168.0.1, .2, .3, .15, .16, .47, .51. Transcrição original termina após o endereço .51.
