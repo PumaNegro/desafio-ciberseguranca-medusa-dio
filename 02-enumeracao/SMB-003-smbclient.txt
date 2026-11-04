@@ -1,0 +1,2 @@
+Comando: smbclient -L //192.168.0.15 -U msfadmin
+Shares: print$, tmp, opt, IPC$, ADMIN$, msfadmin. Server: METASPLOITABLE. Workgroup: WORKGROUP. Samba 3.0.20-Debian.

